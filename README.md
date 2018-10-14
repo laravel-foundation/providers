@@ -1,6 +1,12 @@
 ## Laravel Foundation Providers Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Providers/](https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Providers/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Providers/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Providers/)
+
+### Installation
+
+```bash
+composer require laravel-foundation/providers
+```
 
 
 ### Issues
